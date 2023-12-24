@@ -20,5 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavkatkar3001&show_icons=true&locale=en" alt="vaibhavkatkar3001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavkatkar3001&" alt="vaibhavkatkar3001" /></p>
-### 🔝 Top Contributed Repo
+🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vaibhavkatkar3001&limit=5&theme=flat&combine_all_yearly_contributions=true)
